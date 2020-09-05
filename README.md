@@ -6,7 +6,11 @@ The interactive portion of this workshop will focus on learning the basics of th
 
 ## Homework
 
-INSERT HOMEWORK HERE
+* Download and install an IDE (info [here](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/IDEs))
+* [https://www.w3schools.com/whatis/whatis_html.asp](https://www.w3schools.com/whatis/whatis_html.asp)
+* [https://www.w3schools.com/whatis/whatis_css.asp](https://www.w3schools.com/whatis/whatis_css.asp)
+* [https://www.w3schools.com/whatis/whatis_js.asp](https://www.w3schools.com/whatis/whatis_js.asp)
+
 
 ## Getting Started
 
@@ -18,7 +22,9 @@ INSERT HOMEWORK HERE
 
 Well done finishing the workshop! You now have the necessary skills to create your own website from scratch! Soon, you will be able to create web applications using these skills. Moving forward, we would recommend the follow steps to continue developing and learning:
 
-INSERT NEXT STEPS HERE
+*   Continue reading/following through the tutorials for HTML, CSS, and JavaScript on the W3Schools website: [https://www.w3schools.com/](https://www.w3schools.com/)
+    *   This is probably the most beginner-friendly way to become much more accustomed to all three languages
+*   Continue developing pages; try making basic HTML pages, such as a home page for your site, to become more proficient with the syntax you learn from the aforementioned resource
 
 ## If you couldn't make the workshop
 
