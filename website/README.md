@@ -2,7 +2,9 @@
 
 **To get started, open this in Stackblitz**: [https://stackblitz.com/edit/oasis-workshop-3-website?file=README.md](https://stackblitz.com/edit/oasis-workshop-3-website?file=README.md)
 
-**If Stackblitz gives you trouble, you can also use Codepen [https://codepen.io/](https://codepen.io/)
+*Make sure you press Fork in Stackblitz to copy the project!!*
+
+**If Stackblitz gives you trouble, you can also use Codepen** [https://codepen.io/](https://codepen.io/)
 
 In this folder, you will create your own interactive personal site! As you may have noticed, no starter files have been provided. It is up to you to create them and fill them in using your IDE
 

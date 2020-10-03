@@ -12,7 +12,9 @@ This folder contains the files to get you started writing your web code.
 
 Here's what we're going to do:
 
-**Open this project in Stackblitz: [https://stackblitz.com/edit/oasis-workshop-3-testing?file=index.html](https://stackblitz.com/edit/oasis-workshop-3-testing?file=index.html)
+**Open this project in Stackblitz**: [https://stackblitz.com/edit/oasis-workshop-3-testing?file=index.html](https://stackblitz.com/edit/oasis-workshop-3-testing?file=index.html)
+
+*Once in Stackblitz, make sure you hit Fork to copy this code*
 
 **note: if you're using your own IDE (not Stackblitz), to see changes to your page while editing, save your changed files and refresh the page in your browser. We'd highly recommend you use Stackblitz though**
 
