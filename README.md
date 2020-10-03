@@ -28,4 +28,4 @@ Well done finishing the workshop! You now have the necessary skills to create yo
 
 ## If you couldn't make the workshop
 
-If you were not able to attend, don't worry! There are still many great ways to learn these languages of the web. We'd recommend checking out the resources listed in the [Ultimate Oasis Starting Guide](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/frontend-dev). You can also still use the workshop files as a starting point for your coding. Good luck!
+If you were not able to attend, don't worry! There are still many great ways to learn these languages of the web. We'd recommend checking out the resources listed in the [Ultimate Oasis Starting Guide](https://github.com/northeastern-oasis/Ultimate-Oasis-Starting-Guide/tree/master/intro-to-web). You can also still use the workshop files as a starting point for your coding. Good luck!
