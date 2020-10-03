@@ -14,6 +14,11 @@ The interactive portion of this workshop will focus on learning the basics of th
 
 ## Getting Started
 
+If you're just getting started (**recommended**):
+1. Go to the Stackblitz link in each folder and click Fork
+
+
+If you want to use your own IDE (not recomended for beginners)
 1. Clone the Workshop 3 Github repository into a new folder on your machine (in Terminal or Command Prompt, type `git clone REPO_URL`, where REPO_URL is the clone repository found on the top of this page
 2. You're all set! Just have the cloned folder easily accessible and follow along with the workshop to start writing web code
 
